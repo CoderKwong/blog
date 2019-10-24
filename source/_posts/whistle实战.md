@@ -18,7 +18,7 @@ whistle start
 w2 start
 ```
 启动成功后，即可见此信息（默认端口号为:8899）：
-![](/source/images/img_whistle_01.png)
+![](https://res.cloudinary.com/daq48zmrm/image/upload/v1571938672/img_whistle_01_idfsjv.png)
 访问 `127.0.0.1:8899` 即可进入配置页面
 
 ### 常用功能
